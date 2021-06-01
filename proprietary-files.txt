@@ -1,11 +1,11 @@
 # ACDB
-vendor/etc/acdbdata/19691/Bluetooth_cal.acdb
-vendor/etc/acdbdata/19691/General_cal.acdb
-vendor/etc/acdbdata/19691/Global_cal.acdb
-vendor/etc/acdbdata/19691/Handset_cal.acdb
-vendor/etc/acdbdata/19691/Hdmi_cal.acdb
-vendor/etc/acdbdata/19691/Headset_cal.acdb
-vendor/etc/acdbdata/19691/Speaker_cal.acdb
+vendor/etc/acdbdata/18621/Bluetooth_cal.acdb
+vendor/etc/acdbdata/18621/General_cal.acdb
+vendor/etc/acdbdata/18621/Global_cal.acdb
+vendor/etc/acdbdata/18621/Handset_cal.acdb
+vendor/etc/acdbdata/18621/Hdmi_cal.acdb
+vendor/etc/acdbdata/18621/Headset_cal.acdb
+vendor/etc/acdbdata/18621/Speaker_cal.acdb
 
 # ADSP
 vendor/bin/adsprpcd
@@ -54,7 +54,7 @@ vendor/lib64/rfsa/adsp/libdsp_streamer_add_constant.so
 vendor/lib64/rfsa/adsp/libdsp_streamer_skel.so
 
 # Audio amplifier firmware
-vendor/firmware/tfa98xx_19691.cnt
+vendor/firmware/tfa98xx_18621.cnt
 
 # Audio Hal
 vendor/lib/hw/audio.primary.sdm710.so
@@ -205,16 +205,12 @@ vendor/lib64/camera/com.qti.sensor.s5k2x5.so
 vendor/lib64/camera/com.qti.sensor.s5k3p9sp.so
 vendor/lib64/camera/com.qti.sensor.s5kgw1.so
 vendor/lib64/camera/com.qti.sensor.sp2509v.so
-vendor/lib64/camera/com.qti.sensormodule.holitech_gc2375h.bin
-vendor/lib64/camera/com.qti.sensormodule.holitech_sp2509v.bin
-vendor/lib64/camera/com.qti.sensormodule.sunny_hi846.bin
-vendor/lib64/camera/com.qti.sensormodule.sunny_imx586.bin
-vendor/lib64/camera/com.qti.sensormodule.trulyi2c20_imx471.bin
-vendor/lib64/camera/com.qti.tuned.holitech_gc2375h.bin
-vendor/lib64/camera/com.qti.tuned.holitech_sp2509v.bin
-vendor/lib64/camera/com.qti.tuned.sunny_hi846.bin
-vendor/lib64/camera/com.qti.tuned.sunny_imx586.bin
-vendor/lib64/camera/com.qti.tuned.truly_imx471.bin
+vendor/lib64/camera/com.qti.sensormodule.ofilm_gc5035.bin
+vendor/lib64/camera/com.qti.sensormodule.ofilm_imx519.bin
+vendor/lib64/camera/com.qti.sensormodule.truly_s5k2x5.bin
+vendor/lib64/camera/com.qti.tuned.ofilm_gc5035.bin
+vendor/lib64/camera/com.qti.tuned.ofilm_imx519.bin
+vendor/lib64/camera/com.qti.tuned.truly_s5k2x5.bin
 vendor/lib64/camera/components/com.arcsoft.node.yuvhdr.so
 vendor/lib64/camera/components/com.oppo.node.bokeh.so
 vendor/lib64/camera/components/com.oppo.node.drawafinfo.so
@@ -476,6 +472,6 @@ vendor/etc/sensors/config/stk3x3x_0.json
 vendor/etc/sensors/config/tsl2540_0.json
 
 # Touchscreen firmware
-vendor/firmware/tp/19691/FW_HX_NF83112A_DSJM.img
-vendor/firmware/tp/19691/FW_HX_NF83112A_DSJM_FAE.img
-vendor/firmware/tp/19691/FW_HX_NF83112A_DSJM_TEST.img
+vendor/firmware/tp/18621/FW_HX_NF83112A_DSJM.img
+vendor/firmware/tp/18621/FW_HX_NF83112A_DSJM_FAE.img
+vendor/firmware/tp/18621/FW_HX_NF83112A_DSJM_TEST.img
